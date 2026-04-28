@@ -1,0 +1,44 @@
+{
+    "Basil": {
+        "temp_max_c": 28,
+        "temp_min_c": 18,
+        "hysteresis_temp": 2.0,
+        "humidity_max_percent": 75,
+        "hysteresis_humidity": 5.0,
+        "soil_moisture_target_percent": 40,
+        "soil_moisture_critical_percent": 15,
+        "watering_duration_seconds": 5,
+        "watering_start_hour": 7,
+        "watering_end_hour": 19,
+        "watering_cooldown_hours": 4,
+        "light_hours_required": 14,
+        "light_min_lux": 5000,
+        "air_quality_min_percent": 80,
+        "ventilation_duration_minutes": 10,
+        "ventilation_cooldown_hours": 4,
+        "gas_baseline": 30000,
+        "lid_open_angle": 90
+    },
+    "Succulent": {
+        "temp_max_c": 32,
+        "temp_min_c": 15,
+        "hysteresis_temp": 3.0,
+        "humidity_max_percent": 50,
+        "hysteresis_humidity": 10.0,
+        "soil_moisture_target_percent": 20,
+        "soil_moisture_critical_percent": 10,
+        "watering_duration_seconds": 3,
+        "watering_start_hour": 8,
+        "watering_end_hour": 18,
+        "watering_cooldown_hours": 24,
+        "light_hours_required": 12,
+        "light_min_lux": 8000,
+        "air_quality_min_percent": 90,
+        "ventilation_duration_minutes": 15,
+        "ventilation_cooldown_hours": 6,
+        "gas_baseline": 35000,
+        "lid_open_angle": 120
+    }
+}
+
+

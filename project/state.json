@@ -1,0 +1,25 @@
+{
+    "live_data": {
+        "temperature": 32.88,
+        "humidity": 74.5,
+        "light": 94,
+        "soil_moisture": 10.9,
+        "air_quality": 100,
+        "timestamp": "2026-04-28T16:17:34.387075Z"
+    },
+    "live_actuator_states": {
+        "intake_fans": false,
+        "exhaust_fans": false,
+        "water_pump": false,
+        "led_light": false,
+        "lid_angle": 0,
+        "lid_open": false
+    },
+    "system_mode": "MANUAL",
+    "manual_led_light": false,
+    "active_profile_name": "Basil",
+    "manual_intake_fans": false,
+    "manual_exhaust_fans": false,
+    "manual_water_pump": false,
+    "manual_lid_open": false
+}
