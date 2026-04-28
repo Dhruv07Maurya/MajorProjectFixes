@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Database (will be regenerated on the other device)
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Old nested git folders (we are creating a fresh repo)
+# These are handled by removing them below
+
+# Results / generated output (optional — large files)
+WeedIoTNew/results/
+
+# Gemini / tool metadata
+.gemini/

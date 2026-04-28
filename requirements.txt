@@ -1,0 +1,22 @@
+# ========================================
+# BloomBox — Smart Greenhouse + Weed Detection
+# Combined Requirements
+# ========================================
+
+# Core Flask server
+flask
+
+# Camera & Image Processing
+opencv-python
+numpy
+
+# Weed Detection Module
+scipy
+
+# Hardware (Raspberry Pi — install only on target device)
+# Uncomment these on your Raspberry Pi:
+# RPi.GPIO
+# adafruit-circuitpython-dht
+# adafruit-circuitpython-bme680
+# adafruit-circuitpython-ads1x15
+# board
